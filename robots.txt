@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ketanmb69.github.io/sitemap/sitemap-index.xml
+Host: https://ketanmb69.github.io
